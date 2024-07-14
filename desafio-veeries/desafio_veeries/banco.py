@@ -6,7 +6,7 @@ from pyowm import OWM
 from pyowm.utils import config
 from pyowm.utils import timestamps
 
-owm = OWM('d129dc0b18b2bcf83a9778a926c6d14e')
+owm = OWM('insert key here')
 mgr = owm.weather_manager()
 
 
